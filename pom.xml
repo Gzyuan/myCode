@@ -3,4 +3,12 @@
   <groupId>cn.gzy</groupId>
   <artifactId>myCode</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+	<dependencies>
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
+		<dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-collections4</artifactId>
+		    <version>4.1</version>
+		</dependency>
+	</dependencies>    
 </project>
